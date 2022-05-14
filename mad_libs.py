@@ -1,0 +1,6 @@
+city = input("Enter the city: ")
+fruit = input("Enter the fruit: ")
+animal = input("Enter the animal: ")
+print("My friends from " + city + " are coming to see me tomorrow.")
+print("They will bring a lot of " + fruit + " with them")
+print("and I'll introduce them to my " + animal)
